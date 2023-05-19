@@ -1,4 +1,9 @@
-### Hi there 👋
+### Nice to see you here 👋
+
+Hi I am **Louis Stefanuto** !
+
+![salut](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
+
 
 <!--
 **LouisStefanuto/LouisStefanuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
