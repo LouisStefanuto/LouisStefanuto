@@ -1,17 +1,17 @@
-<h1>Nice to see you here 👋 </h1>
+# I am passionate about AI in Healthcare & Medecine 👋
 
-<!--
+## 🧠 About Me
 
-<h3>My profile in a nutshell</h3>
+- 👾 I am **Data Scientist** @ Invent (Consulting) with a focus on **Computer Vision** projects.
+- 🎓 I hold degrees from **École Polytechnique** (Cycle Ingénieur) and **Mines Paris** (Ingénieur Civil).
+- 💡 On the side, I love writing about AI! I dive into topics like **Diffusion Models**, **Video Generation**, and **AlphaFold**. Check out my latest posts on my [**blog**](https://louisstefanuto.github.io/my-site/).
+- 🏆 Active participant in Data Science challenges. Curious about my latest work? Take a look at my [**project**](https://louisstefanuto.github.io/digilut/) on **Lung Graft Rejection Region Detection** (Digilut 2024 competition).
 
-- 🔭 I’m currently working on **Computer Vision / Reinforcement Learning**
+## 🌱 What I'm Up To
 
-- 🌱 I’m currently learning **Azure Cloud services**
+I’m always looking to explore new AI techniques and collaborate on impactful projects, especially in the healthcare space. Feel free to connect, share ideas, or collaborate!
 
-- 👯 I’m looking to collaborate on **impactful projects**
-
--->
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
@@ -27,4 +27,4 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="torch-geometric" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  -->
