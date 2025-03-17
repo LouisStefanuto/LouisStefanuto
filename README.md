@@ -1,5 +1,3 @@
-# I am passionate about AI in Healthcare & Medecine 👋
-
 ## 🧠 About Me
 
 - 👾 I am **Data Scientist** @ Invent (Consulting) with a focus on **Computer Vision** projects.
