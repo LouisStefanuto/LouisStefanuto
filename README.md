@@ -1,4 +1,4 @@
-- 👾 I am **AI Engineer** @ Invent (Consulting) with a focus on **Computer Vision** projects.
+- 👾 I am **Data Scientist/ML Engineer** @ Invent (Consulting) with a focus on **Computer Vision and NLP** projects.
 - 🎓 I hold degrees from **École Polytechnique** (Cycle Ingénieur X19) and **Mines Paris** (Ingénieur Civil P20).
 - 💡 On the side, I love writing about AI! I dive into topics like **Diffusion Models**, **Video Generation**, and **AlphaFold**. Check out my latest posts on my [**blog**](https://louisstefanuto.github.io/my-site/).
 - 🏆 Active participant in Data Science challenges. Curious about my latest work? Take a look at my [**project**](https://louisstefanuto.github.io/digilut/) on **Lung Graft Rejection Region Detection** (Digilut 2024 competition).
