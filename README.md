@@ -1,7 +1,7 @@
 - 👾 I am **Data Scientist/ML Engineer** @ Invent (Consulting) with a focus on **Computer Vision and NLP** projects.
 - 🎓 I hold degrees from **École Polytechnique** (Cycle Ingénieur X19) and **Mines Paris** (Ingénieur Civil P20).
 - 💡 On the side, I love writing about AI! I dive into topics like **Diffusion Models**, **Video Generation**, and **AlphaFold**. Check out my latest posts on my [**blog**](https://louisstefanuto.github.io/my-site/).
-- 🏆 Active participant in Data Science challenges. Take a look at one of my latest [**contribution**](https://louisstefanuto.github.io/digilut/) on **Lung Graft Rejection Region Detection** (Digilut 2024 competition).
+- 🏆 Active participant in Data Science challenges. Take a look at one of my latest [**contributions**](https://louisstefanuto.github.io/digilut/) on **Lung Graft Rejection Region Detection** (Digilut 2024 competition).
 
 <p align="center"> <a href="https://louisstefanuto.github.io/my-site/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Blog-1DA1F2?style=for-the-badge" alt="Visit My Blog"> </a> <a href="https://louisstefanuto.github.io/digilut/" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Last%20Project-28A745?style=for-the-badge" alt="View My Last Project"> </a> </p>
 
