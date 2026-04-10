@@ -1,4 +1,4 @@
-- 👾 I am **Data Scientist/ML Engineer** with a focus on **Computer Vision and NLP** projects.
+- 👾 I am **Research Engineer** at InstaDeep LTD where I build Deep Learning models for biology/oncology.
 - 🎓 I hold degrees from **École Polytechnique** (Cycle Ingénieur X19) and **Mines Paris** (Ingénieur Civil P20).
 - 💡 On the side, I love writing about AI! I dive into topics like **Diffusion Models**, **Video Generation**, and **AlphaFold**. Check out my latest posts on my [**blog**](https://louisstefanuto.github.io/my-site/).
 - 🏆 Active participant in Data Science challenges. Take a look at one of my latest [**contributions**](https://louisstefanuto.github.io/digilut/) on **Lung Graft Rejection Region Detection** (Digilut 2024 competition).
