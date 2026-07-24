@@ -11,6 +11,6 @@ I’m always looking to explore new AI techniques and collaborate on impactful p
 | Category | Projects |
 |---|---|
 | **End-to-end apps** | ⭐️ [miam — Open-source recipe-sharing app](https://github.com/LouisStefanuto/miam)<br/> |
-| **Computational Pathology & Medical AI** | ⭐️ [Graft rejection detection after lung transplantation](https://github.com/LouisStefanuto/digilut)<br/> ▹ [PIK3CA mutation detection in breast cancer — Owkin](https://github.com/LouisStefanuto/Detection-of-the-PIK3CA-mutation-in-breast-cancer)<br/> |
-| **Machine Learning Competitions** | ▹ [icecube_kaggle — Neutrino direction with Graph Neural Networks](https://github.com/LouisStefanuto/icecube_kaggle)<br/> ▹ (Organizer) [Crop satellite imagery segmentation](https://github.com/LouisStefanuto/hackathon-mines-invent-2024) |
-| **Miscellaneous** | ▹ [learning-new-technos — Learning notes & projects](https://github.com/LouisStefanuto/learning-new-technos)<br/> ▹ [aoc2024 — Advent of Code 2024](https://github.com/LouisStefanuto/aoc2024) |
+| **Computational Pathology & Medical AI** | ⭐️ [Graft rejection detection after lung transplantation](https://github.com/LouisStefanuto/digilut)<br/> ▹ [PIK3CA mutation detection in breast cancer (Owkin Hackathon, 2nd place 🏆)](https://github.com/LouisStefanuto/Detection-of-the-PIK3CA-mutation-in-breast-cancer)<br/> |
+| **Machine Learning Competitions** | ▹ [Neutrino direction with Graph Neural Networks (Kaggle 2023)](https://github.com/LouisStefanuto/icecube_kaggle)<br/> ▹ (Hackathon Organizer) [Crop satellite imagery segmentation](https://github.com/LouisStefanuto/hackathon-mines-invent-2024) |
+| **Miscellaneous** | ▹ [Learning notes & experiments](https://github.com/LouisStefanuto/learning-new-technos)<br/> ▹ [Advent of Code 2024](https://github.com/LouisStefanuto/aoc2024) |
